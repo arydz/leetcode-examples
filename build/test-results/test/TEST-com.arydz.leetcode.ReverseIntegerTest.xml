@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.arydz.leetcode.ReverseIntegerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-03T13:05:36" hostname="9H5TST2" time="0.054">
+  <properties/>
+  <testcase name="Test reverse integer[0]" classname="com.arydz.leetcode.ReverseIntegerTest" time="0.053"/>
+  <testcase name="Test reverse integer[1]" classname="com.arydz.leetcode.ReverseIntegerTest" time="0.0"/>
+  <testcase name="Test reverse integer[2]" classname="com.arydz.leetcode.ReverseIntegerTest" time="0.0"/>
+  <testcase name="Test reverse integer[3]" classname="com.arydz.leetcode.ReverseIntegerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

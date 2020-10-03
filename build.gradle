@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'groovy'
+}
+
+group 'com.arydz.leetcode'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+
+    mavenLocal()
+    mavenCentral()
+    maven { url 'http://oss.sonatype.org/content/repositories/snapshots/' }
+
+}
+
+dependencies {
+
+    compile "org.codehaus.groovy:groovy-all:2.4.8"
+    testCompile "org.spockframework:spock-core:1.1-groovy-2.4"
+}
